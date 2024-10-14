@@ -1,8 +1,6 @@
 ### Hi there 👋
 I'm zhujiahui. I come from China, ShenZhen. I'm interested in Robotics.
 
-My blog's website is [bailey24.life](https://www.bailey24.life/)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bailey-24)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
