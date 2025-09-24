@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm zhujiahui. I come from China, ShenZhen. I'm interested in Robotics.
+I'm bailey. I come from China, ShenZhen. I'm interested in Robotics.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bailey-24)](https://github.com/anuraghazra/github-readme-stats)
 
